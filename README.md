@@ -4,7 +4,7 @@
 O projeto é uma **prova de conceito (POC)**, com soluções paliativas para algumas letras com movimento, devido às limitações do MediaPipe em detectar profundidade e movimentos mais finos.
 
 🔗 Repositório oficial: [github.com/WillMidia/librasVision-cp2](https://github.com/WillMidia/librasVision-cp2)
-
+Apresentação: https://l1nk.dev/eDUwg
 ---
 
 ## ✨ Funcionalidades
